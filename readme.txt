@@ -7,5 +7,4 @@ The dataset is fully synthetic (no PII) and is used here for **educational and p
 Credit to the original dataset author:
 **River @ Rivalytics**
 
-Source:
-https://github.com/poov77/FUTURE_DS_2
+Source available upon request.
