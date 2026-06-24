@@ -65,6 +65,12 @@ River @ Rivalytics
 
 Source available upon request.
 
+## License
+
+Unless otherwise stated, the original code, notebooks, SQL work, dashboard design, and written project materials in this repository are licensed under the MIT License.
+
+This repository does not redistribute the original RavenStack dataset files.
+
 ## Reuse and Rights Notice
 
 Unless otherwise stated, the original analysis, written report content, dashboard design, and repository structure in this project are the work of the repository owner.
