@@ -14,6 +14,12 @@ The project workflow covered:
 - Account-level and subscription-level churn modeling
 - Power BI dashboard reporting
 
+## Repository Scope
+
+This repository contains original analysis, reporting, dashboard design, and project documentation created by the repository owner.
+
+The RavenStack dataset used in this project is a third-party synthetic dataset credited separately below and is not claimed here as original work.
+
 ## Key Outcome
 
 The project showed that the current dataset supports strong descriptive and diagnostic churn analysis, while predictive performance remained weak in the current feature space.
