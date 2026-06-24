@@ -64,3 +64,12 @@ Credit to the original dataset author:
 River @ Rivalytics
 
 Source available upon request.
+
+## Reuse and Rights Notice
+
+Unless otherwise stated, the original analysis, written report content, dashboard design, and repository structure in this project are the work of the repository owner.
+
+Third-party dataset files included in this repository remain subject to the original dataset author's stated terms and attribution requirements.
+
+No independent relicensing of the RavenStack dataset is claimed or granted by this repository.
+
